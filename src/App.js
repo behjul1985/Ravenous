@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Ravenous Project - Test
+          Ravenous Project - Test new merge branches
         </p>
         <a
           className="App-link"
